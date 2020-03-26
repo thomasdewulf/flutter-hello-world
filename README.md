@@ -1,5 +1,9 @@
 # hello_world
 
+## Web support
+
+<https://flutter.dev/docs/get-started/web>
+
 A new Flutter project.
 
 ## Getting Started
